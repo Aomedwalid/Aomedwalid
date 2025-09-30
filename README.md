@@ -97,20 +97,18 @@
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->
 
-700 hr ┤╭───────────────────────────────────────────────────────────────────────────────────────────────
-700 hr ┤│
-700 hr ┤│
-700 hr ┤│
-700 hr ┤│
-699 hr ┤│
-699 hr ┤│
-699 hr ┤│
-699 hr ┤│
-699 hr ┤│
-699 hr ┤│
-698 hr ┤│
-698 hr ┼╯
-┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬───────────┤
--7d -6d -5d -4d -3d -2d -1d now
+## 📫 Get in Touch
 
+<p align="center">
+  <a href="mailto:ahmedwalid9876543@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-walid-b13985321/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/28774455/ahmed-walid" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+</a>
+
+</p>
 
