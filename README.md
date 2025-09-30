@@ -1,5 +1,5 @@
 <h1 align="left" id="ahmedwalid-title">:wave: Hello there! I'm Ahmed Walid</h1>
-<h3 align="left">Backend Software Engineer | Node.js & Spring Boot</h3>
+<h3 align="left">Backend Software Engineer | Spring Boot & Node.js</h3>
 
 <p align="left">
   <a href="https://github.com/ahmedwalid">
@@ -10,9 +10,7 @@
   </a>
 </p>
 
-<a href="#ahmedwalid-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="ahmedwalid" align="right" />
-</a>
+
 
 - :mortar_board: &nbsp;I'm a **Computer Science student**
 - :computer: &nbsp;I specialize in **Backend Engineering** with **Spring Boot (Java)** and **Node.js**
