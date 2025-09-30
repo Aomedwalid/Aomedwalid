@@ -90,12 +90,43 @@
   </tr>
 </table>
 
+<h2 align="left">Coding Activity</h2>
+
+> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
+```
+  704.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
+  704.6 hr  ┤│                                                                                                   
+  704.6 hr  ┤│                                                                                                   
+  704.6 hr  ┤│                                                                                                   
+  704.6 hr  ┤│                                                                                                   
+  704.5 hr  ┤│                                                                                                   
+  704.5 hr  ┤│                                                                                                   
+  704.5 hr  ┤│                                                                                                   
+  704.5 hr  ┤│                                                                                                   
+  704.5 hr  ┤│                                                                                                   
+  704.5 hr  ┤│                                                                                                   
+  704.4 hr  ┤│                                                                                                   
+  704.4 hr  ┼╯                                                                                                   
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
+
+<!-- links -->
+
 ## 📫 Get in Touch
 
 <p align="center">
   <a href="mailto:ahmedwalid9876543@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
   <a href="https://www.linkedin.com/in/ahmed-walid-b13985321/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
