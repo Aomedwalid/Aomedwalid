@@ -35,52 +35,100 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#ahmedwalid-tech">
-        <img src="./img/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#ahmedwalid-tech">
-        <img src="./img/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <a href="#ahmedwalid-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#ahmedwalid-tech">
-        <img src="./img/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       <br>C++
     </td>
-    <td align="center" width="96"> 
-      <a href="#ahmedwalid-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
-    <td align="center"  width="96">
-      <a href="#ahmedwalid-tech">
-        <img src="./img/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <a href="#ahmedwalid-tech" >
-        <img src="./img/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-      <a href="#ahmedwalid-tech">
-        <img src="./img/aws-original.svg" width="48" height="48" alt="AWS" />
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
       <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/continuous-integration.png" width="48" height="48" alt="Pipelines" />
+      <br>CI/CD
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="48" height="48" alt="LeetCode" />
+      <br>LeetCode
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-api-coding-and-development-flat-flat-juicy-fish.png" width="48" height="48" alt="High Performance APIs" />
+      <br>High-Perf APIs
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-api-interface-user-interface-flat-flat-juicy-fish.png" width="48" height="48" alt="REST APIs" />
+      <br>REST APIs
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/mvc.png" width="48" height="48" alt="MVC" />
+      <br>MVC
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/websockets.png" width="48" height="48" alt="WebSockets" />
+      <br>WebSockets
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/dashboard.png" width="48" height="48" alt="Dashboards" />
+      <br>Dashboards
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/external-system-design-ux-and-ui-smashingstocks-flat-smashing-stocks.png" width="48" height="48" alt="System Design" />
+      <br>System Design
     </td>
   </tr>
 </table>
@@ -91,5 +139,21 @@
 
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->
+
+700 hr ┤╭───────────────────────────────────────────────────────────────────────────────────────────────
+700 hr ┤│
+700 hr ┤│
+700 hr ┤│
+700 hr ┤│
+699 hr ┤│
+699 hr ┤│
+699 hr ┤│
+699 hr ┤│
+699 hr ┤│
+699 hr ┤│
+698 hr ┤│
+698 hr ┼╯
+┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬───────────┤
+-7d -6d -5d -4d -3d -2d -1d now
 
 
