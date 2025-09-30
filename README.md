@@ -5,9 +5,6 @@
   <a href="https://github.com/ahmedwalid">
     <img src="https://komarev.com/ghpvc/?username=ahmedwalid" alt="page views" />
   </a>
-  <a href="https://stackoverflow.com/users/your-id">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/your-id?color=orange&label=reputation&logo=stackoverflow">
-  </a>
   <a href="https://github.com/ahmedwalid?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ahmedwalid?style=flat&logo=github">
   </a>
