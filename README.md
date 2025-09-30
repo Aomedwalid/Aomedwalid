@@ -5,9 +5,9 @@
   <a href="https://github.com/ahmedwalid">
     <img src="https://komarev.com/ghpvc/?username=ahmedwalid" alt="page views" />
   </a>
-  <a href="https://github.com/ahmedwalid?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ahmedwalid?style=flat&logo=github">
-  </a>
+  <a href="https://github.com/Aomedwalid?tab=followers">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aomedwalid?style=flat&logo=github">
+</a>
 </p>
 
 
