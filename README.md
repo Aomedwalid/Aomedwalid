@@ -42,8 +42,8 @@
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
+      <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="48" height="48" alt="Python" />
+      <br>Go
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
@@ -98,7 +98,7 @@
 <!-- START_SECTION:ascii_graph -->
 
 ```
-  704.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
+  705.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
   704.6 hr  ┤│                                                                                                   
   704.6 hr  ┤│                                                                                                   
   704.6 hr  ┤│                                                                                                   
