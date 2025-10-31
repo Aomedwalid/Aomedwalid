@@ -13,7 +13,7 @@
 
 
 - :mortar_board: &nbsp;I'm a **Computer Science student**
-- :computer: &nbsp;I specialize in **Backend Engineering** with **Spring Boot (Java)** and **Node.js**
+- :computer: &nbsp;I specialize in **Backend Engineering** with **Spring Boot (Java)** and **Node.js** and **GO**
 - :seedling: &nbsp;I’m passionate about **high-performance APIs** and **modern design patterns**
 - :floppy_disk: &nbsp;I’ve built projects with **Spring Boot, Node.js, Docker, PostgreSQL, MongoDB**
 - :cloud: &nbsp;Experience with **AWS deployment** & **infrastructure management**
