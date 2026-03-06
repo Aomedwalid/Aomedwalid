@@ -90,35 +90,6 @@
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
-
-> Total logged open-source coding time since 2022-09-19. Updated every 1 hour.
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-  705.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  704.6 hr  ┤│                                                                                                   
-  704.6 hr  ┤│                                                                                                   
-  704.6 hr  ┤│                                                                                                   
-  704.6 hr  ┤│                                                                                                   
-  704.5 hr  ┤│                                                                                                   
-  704.5 hr  ┤│                                                                                                   
-  704.5 hr  ┤│                                                                                                   
-  704.5 hr  ┤│                                                                                                   
-  704.5 hr  ┤│                                                                                                   
-  704.5 hr  ┤│                                                                                                   
-  704.4 hr  ┤│                                                                                                   
-  704.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
 
 ## 📫 Get in Touch
 
