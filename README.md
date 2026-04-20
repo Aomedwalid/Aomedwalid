@@ -25,7 +25,7 @@
 
 <h2 align="left" id="ahmedwalid-tech">Favorite Tech</h2>
 
-> Tools, languages, and technologies I like to work with.
+> Tools, languages, and technologies I like to work with
 
 <table>
   <tr>
