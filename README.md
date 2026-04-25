@@ -1,4 +1,4 @@
-<h1 align="left" id="ahmedwalid-title">:wave: Hello there! I'm Ahmed Walid</h1>
+<h1 align="left" id="ahmedwalid-title">Hello there!</h1>
 <h3 align="left">Backend Software Engineer | Spring Boot & Node.js</h3>
 
 <p align="left">
