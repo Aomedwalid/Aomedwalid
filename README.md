@@ -4,8 +4,6 @@
 
 I work mainly with **Python / FastAPI, Java / Spring Boot, Go, and Node.js**, with experience across **PostgreSQL, MongoDB, Redis, Docker, AWS, and Linux**.
 
-I'm technology-agnostic — I care more about **solving the problem well** than being tied to a specific stack.
-
 Currently focused on **backend architecture, system design, performance, and AI-assisted development** using modern AI coding tools and **multi-agent workflows**.
 
 ---
