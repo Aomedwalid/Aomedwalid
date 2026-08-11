@@ -11,7 +11,7 @@ Currently focused on **backend architecture, system design, performance, and AI-
 ### Tech I Work With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,go,nodejs,postgres,mongodb,redis,docker,aws,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,nodejs,postgres,mongodb,redis,docker,aws,linux,git,github" />
 </p>
 
 ---
